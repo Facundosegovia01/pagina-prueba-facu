@@ -1391,8 +1391,8 @@ transition: opacity 0.2s ease;
 visibility: hidden;
 z-index: 1; 
 padding: 40px;
-
 }
+
 
 li:hover #subMenu { 
 opacity: 1;
